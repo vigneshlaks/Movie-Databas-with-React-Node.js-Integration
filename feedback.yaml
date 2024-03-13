@@ -1,0 +1,34 @@
+## HW1MS2 Reflection
+
+full_name: "Vignesh Lakshmanan" # Please fill in your full name
+penn_email: "vigneshl@seas.upenn.edu" # Please fill in your Penn email
+
+# List the features you implemented or write "Entire assignment"
+features_implemented: "Entire assignment"
+
+# List any extra-credit tasks completed
+ec_implemented: "None"
+
+# Time Investment
+time_investment:
+  HW1MS2-RC: 20 # Hours spent on HW1MS2 regular credit
+  HW1MS2-EC: 0 # Hours spent on HW1MS2 extra credit
+
+# What you liked
+feedback_liked: |
+  I like learning about the different technologies and familiarizing myself with them
+
+# What you disliked and suggestions for improvement
+feedback_disliked: |
+  There were so many errors and bugs
+  It was obvius the assignment was rushed
+  Spent more time trying to debug problems that ultimately weren't entirely my fault than
+  I did learning
+  Very frustrating homework
+  The TAs themselves didn't seem to be very knowledgable and had a poor time debugging
+
+# Academic Integrity
+copied_code: false # Set to true if you copied any code from the Internet or classmates
+copied_code_details: "" # If copied_code is true, specify the source
+collaborated_with_others: false # Set to true if you collaborated with anyone on this assignment
+collaborated_with_others_details: "" # If collaborated_with_others is true, specify with whom
